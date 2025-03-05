@@ -348,6 +348,7 @@ sed -n '2,4{s/^/$/;p}' file23
 
 
 sed -n '2,4{s/$/*/;p}' file23
+
 ![ex1_41](https://github.com/user-attachments/assets/61380b48-533e-4b73-844d-cf74933692c4)
 
 
