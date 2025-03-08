@@ -588,7 +588,7 @@ fi
  ```
 ./psswdperm.sh
 ## OUTPUT
-![ex1_55](https://github.com/user-attachments/assets/c506fb98-480e-4a3f-999c-df04a42eb9c6)
+![ex1_55](https://github.com/user-attachments/assets/08bd5d6d-afbb-410e-9b1c-3742a2d6a3fc)
 
 # check if with file location
 cat>ifnested.sh 
@@ -635,8 +635,7 @@ fi
 
 ./ifnested.sh 
 ## OUTPUT
-![ex1_56](https://github.com/user-attachments/assets/44af8bd5-5ca9-434a-be55-3256ec212b60)
-
+![ex1_56](https://github.com/user-attachments/assets/9b23619e-0ffb-434e-9488-5254fffc9c84)
 
 
 # using numeric test comparisons
